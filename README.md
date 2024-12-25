@@ -13,4 +13,5 @@ MongoDB or PostgreSQL to store blog posts.
 ## technologies used
 **HTML:** it is the main programming language in full stach development <br>
 **MongoDB :** It is used to store and manage large volumes of data<br>
-**![Uploading Screenshot (36).png…]()**
+
+**![Screenshot (37)](https://github.com/user-attachments/assets/51bb11f1-4225-4a4d-94bb-ae97073cede0)**
